@@ -1,0 +1,4 @@
+-rwxr-xr-x 1 root root              1162312 Dec 11 03:02 bash
+-r-xr-xr-x 1 root root                 7321 Dec 11 03:02 bashbug
+lrwxrwxrwx 1 root root                    4 Dec 11 03:02 rbash -> bash
+lrwxrwxrwx 1 root root                    4 Dec 11 03:02 sh -> bash
