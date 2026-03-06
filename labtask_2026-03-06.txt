@@ -1,0 +1,28 @@
+Lab Task-02
+
+1. Write a script that asks the user for their name, program, batch, and course title, then saves this
+information into a text file student_info.txt.
+2. Write a script that checks the current logged-in user and prints a personalized greeting with the
+current date and time.
+3. Write a script that takes a directory name as input and creates a compressed backup (tar.gz)
+file with today’s date in the filename.
+4. Write a script that takes two numbers as input and performs addition, subtraction,
+multiplication, and division based on user choice. At the end, save the result into a file (e.g.,
+result.txt) and display it using cat.
+5. Write a script that generates numbers from 1 to 50, then saves even numbers into even.txt
+and odd numbers into odd.txt.
+6. Write a script that asks the user for a project name and automatically creates folders: src, bin,
+and docs inside it.
+7. Write a script that asks the user for a time (in minutes) and schedules a shutdown, printing a
+reminder message before execution.
+8. Write a script with a menu using case that gives the user 4 options:
+a) Show current date C time
+b) List all files in current directory
+c) Show current logged-in users
+d) Exit
+9. Write a script that goes through all .txt files in the current directory and renames them by adding
+today’s date at the end (e.g., report.txt → report_2025-08-29.txt).
+10. Write scripts /commands / syntax for moving files into three subdirectories directories:
+ shelldir,
+ cdir,
+ jpgdir according to their extensions.
